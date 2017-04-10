@@ -6,7 +6,7 @@ import sys
 #import time
 
 __author__ = 'Ernst du Plooy'
-__version_info__ = ('2016','03','21')
+__version_info__ = ('2017','05','31')
 __version__ = '-'.join(__version_info__)
 __example__ = """Examples:
 %(prog)s -a 0x20			Output values of all pins for board with address 0x20
